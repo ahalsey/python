@@ -1,3 +1,6 @@
+#tracks.py
+#creates sqlite DB out of iTunes XML file
+
 import xml.etree.ElementTree as ET
 import sqlite3
 
